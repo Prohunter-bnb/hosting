@@ -5,17 +5,17 @@
 Welcome to the repository for hosting and managing your Minecraft server!
 This guide will help you set up, configure, and manage a Minecraft server using GitHub for file organization and deployment.
 
-Features
+**Features**
 
-Support for Minecraft version 1.21.3
+**Support for Minecraft version 1.21.3**
 
-Pre-installed with Vault plugin
+**Pre-installed with Vault plugin**
 
-Easy configuration management
+**Easy configuration management**
 
-Automated backups using GitHub Actions
+**Automated backups using GitHub Actions**
 
-Customizable server properties
+**Customizable server properties**
 
 Prerequisites
 
