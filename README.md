@@ -1,5 +1,9 @@
-**Minecraft Server Hosting on GitHub**
-Welcome to the repository for hosting and managing your Minecraft server! This guide will help you set up, configure, and manage a Minecraft server using GitHub for file organization and deployment.
+**Minecraft Server Hosting on GitHub**                                                                                      
+
+
+
+Welcome to the repository for hosting and managing your Minecraft server!
+This guide will help you set up, configure, and manage a Minecraft server using GitHub for file organization and deployment.
 
 Features
 
