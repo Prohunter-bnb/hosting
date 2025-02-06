@@ -112,6 +112,8 @@ Submit a pull request.
 
 License
 
+Minecraft version 1.21+ added
+
 This repository is licensed under the MIT License.
 
 Support
